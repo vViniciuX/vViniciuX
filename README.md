@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vViniciuX
-- 👀 I’m interested in Python, Zig, Machine Learning, C, C++, C#, Java Script, Rust, 
-- 🌱 I’m currently learning Zig
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning React Native
 - 📫 viniciuscontato9111@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 vViniciuX/vViniciuX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
